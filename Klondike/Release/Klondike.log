@@ -1,0 +1,13 @@
+﻿  card.cpp
+  cardBundleLain.cpp
+  cardBundleOutput.cpp
+  cardBundleStockPile.cpp
+  fontMngr.cpp
+fontMngr.cpp(24): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+  Framework.cpp
+  main.cpp
+  코드를 생성하고 있습니다.
+  All 217 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Klondike.vcxproj -> D:\SourceCodesANDProjects\C, C++ Project Folder\Klondike\Release\Klondike.exe
